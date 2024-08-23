@@ -44,7 +44,7 @@ Desenvolva um programa para que tenha um agente inteligente para jogar um jogo, 
 Escolha a linha (1, 2, 3): 1
 Escolha a coluna (1, 2, 3): 1
  X |   |  
----------
+-----------
    |   |  
----------
+-----------
    |   |  
