@@ -30,7 +30,7 @@ Desenvolva um programa para que tenha um agente inteligente para jogar um jogo, 
 1. **Requisitos**: Você precisa ter Python instalado no seu computador.
 
 2. **Execução**:
-    - Clone este repositório ou copie o código em um arquivo `.py`.
+    - Clone este repositório ou copie os códigos em arquivos `.py`.
     - Abra o terminal ou prompt de comando no diretório onde o arquivo está localizado.
     - Execute o comando `python nome_do_arquivo.py` (substitua `nome_do_arquivo` pelo nome do seu arquivo).
 
